@@ -1,0 +1,81 @@
+body {
+    font-family: cursive;
+    padding: 10px;
+    background-image: url(https://free4kwallpapers.com/uploads/originals/2020/06/02/marvel-infinity-war-wallpaper.jpg );
+    background-repeat: no-repeat;
+    background-size: 100rem;
+    background-attachment: fixed;
+}
+.header {
+    padding: 30px;
+    text-align: center;
+    background-color: rgba(200, 16, 16, 0.884);
+    color: white;
+}
+.topnav {
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.884);
+    margin: rem;
+}
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.topnav a:hover {
+    background-color: white;
+    color: black;
+}
+#log{
+    float: right;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+   
+    }
+    #for{
+        float: right;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    background-color: rgba(0, 0, 0, 0.673);
+    font-size: x-large;
+    text-shadow: 10px;
+    
+
+    }
+    .text{
+        background-color: rgba(0, 0, 0, 0.514);
+        border-style: solid;
+        border-color: rgba(128, 128, 128, 0.629);
+        color: aliceblue;
+    }
+    .heading{
+        background-color: rgba(0, 0, 0, 0.705);
+        border-style: solid;
+        border-color: rgba(128, 128, 128, 0.629);
+        color: aliceblue;
+        font-size: x-large;
+        font-family: fantasy;
+        text-decoration: black;
+    } 
+    .foot{
+        padding: 30px;
+        text-align: center;
+        background-color: rgba(200, 16, 16, 0.884);
+        color: white;
+        display: flex;
+        position: fixed;
+        bottom: 0;
+        gap: 2rem;
+    }
+    .foot a{
+        color: white;
+    }
+    #pic{
+        height: 400px;
+        image-rendering: transparent;
+    }
