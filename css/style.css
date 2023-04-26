@@ -1,0 +1,59 @@
+body {
+    font-family: cursive;
+    padding: 10px;
+    background-image: url(../images/39035.webp);
+    background-repeat: no-repeat;
+    background-size: 150rem;
+    background-attachment: fixed;
+}
+
+.header {
+    padding: 30px;
+    text-align: center;
+    background-color: rgba(200, 16, 16, 0.884);
+    color: white;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.884);
+    margin: rem;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    background-color: white;
+    color: black;
+}
+
+.heading {
+    background-color: rgba(0, 0, 0, 0.884);
+    color: white;
+    text-align: center;
+    margin: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 1rem;
+}
+
+.link {
+    padding: 6px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(200, 16, 16);
+    text-decoration: none;
+    border-radius: 1rem;
+}
+
+img {
+    height: 6rem;
+    border-radius: 5rem;
+    border-color: rgb(200, 16, 16);
+    border-style: solid;
+}
